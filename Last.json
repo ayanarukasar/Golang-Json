@@ -1,0 +1,44 @@
+[
+ {
+  "productId": 1,
+  "manufacturer": "Ashwini",
+  "pricePerUnit": "497.45",
+  "quantityOnHand": 9703,
+  "productName": "Samsung"
+ },
+ {
+  "productId": 2,
+  "manufacturer": "Yuva",
+  "pricePerUnit": "800.45",
+  "quantityOnHand": 1000,
+  "productName": "Hpe"
+ },
+ {
+  "productId": 3,
+  "manufacturer": "Kajal",
+  "pricePerUnit": "978.60",
+  "quantityOnHand": 4000,
+  "productName": "Oppo"
+ },
+ {
+  "productId": 4,
+  "manufacturer": "titli",
+  "pricePerUnit": "233455",
+  "quantityOnHand": 5343540,
+  "productName": "Vivo"
+ },
+ {
+  "productId": 5,
+  "manufacturer": "Juhi",
+  "pricePerUnit": "233455",
+  "quantityOnHand": 5343540,
+  "productName": "Vivo"
+ },
+ {
+  "productId": 6,
+  "manufacturer": "Ravindra",
+  "pricePerUnit": "233455",
+  "quantityOnHand": 5343540,
+  "productName": "titan"
+ }
+]
